@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![mbendidi's 42 stats](https://badge.mediaplus.ma/darkblue/mbendidi?1337Badge=off)](https://github.com/oakoudad/badge42)
+[![mbendidi's 42 stats](https://badge.mediaplus.ma/binary/mbendidi?1337Badge=off)](https://github.com/oakoudad/badge42)
 
 ---
 
