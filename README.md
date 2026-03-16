@@ -4,9 +4,6 @@
 
 ---
 
-### 🚀 Currently Working On
-I am currently tackling **ft_transcendence**, building a full-stack web application.
-
 ### 🛠 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
