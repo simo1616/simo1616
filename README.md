@@ -1,23 +1,30 @@
-# Hi there, I'm Simo! 👋
+# Hi there 👋
 
-<p align="center">
-  <img src="https://stats-42.herokuapp.com/api/v2/stats?login=mbendidi" alt="mbendidi's 42 Stats" />
+[![mbendidi's 42 stats](https://badge.mediaplus.ma/darkblue/mbendidi?1337Badge=off)](https://github.com/oakoudad/badge42)
+
+---
+
+### 🚀 Currently Working On
+I am currently tackling **ft_transcendence**, building a full-stack web application.
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simo1616&show_icons=true&theme=tokyonight&count_private=true" alt="Simo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simo1616&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simo1616&show_icons=true&theme=tokyonight&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simo1616&layout=compact&theme=tokyonight" />
 </p>
-
-### 🛠 Skills & Experience
-- **Languages:** C, C++, JavaScript, TypeScript.
-- **System & Ops:** Makefile, Docker, Shell Scripting, Linux Administration.
-- **Web:** React, NestJS, PostgreSQL.
-
----
 
 <!--
 **simo1616/simo1616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
