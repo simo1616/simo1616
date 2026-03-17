@@ -1,9 +1,64 @@
 # Hi there 👋
 
-[![mbendidi's 42 stats](https://badge.mediaplus.ma/binary/mbendidi?1337Badge=off)](https://github.com/oakoudad/badge42)
+[![Simo's 42 stats](https://badge.mediaplus.ma/binary/TON_LOGIN_INTRA?1337Badge=off)](https://github.com/oakoudad/badge42)
 
 ---
 
+**Junior Developer** — C · C++ · Linux
+
+Motivated developer studying at **École 42 Genève**. Strong focus on **C/C++**, with exposure to **Docker**, **Linux**, and systems programming.
+Looking for **junior developer** or **IT support** roles.
+
+---
+
+## Projects at:
+
+<p align="center">
+  <a href="https://42network.org/" target="_blank" rel="noreferrer">
+    <img src="https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg"
+         alt="42 Network" height="100" />
+  </a>
+</p>
+
+<div align="center">
+
+  <a href="https://github.com/simo1616/Libft" title="Libft">
+    <img alt="Libft" height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/libftm.png" />
+  </a>
+  <a href="https://github.com/simo1616/ft_printf" title="ft_printf">
+    <img alt="ft_printf" height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/ft_printfn.png" />
+  </a>
+  <a href="https://github.com/simo1616/get_next_line" title="Get_Next_Line">
+    <img alt="Get_Next_Line" height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/get_next_linem.png" />
+  </a>
+
+  <a href="https://github.com/simo1616/push_swap" title="push_swap">
+    <img alt="push_swap" height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/push_swapn.png" />
+  </a>
+  <a href="https://github.com/simo1616/minitalk" title="minitalk">
+    <img alt="minitalk" height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/minitalkm.png" />
+  </a>
+  <a href="https://github.com/simo1616/fract-ol" title="fractol">
+    <img alt="fractol" height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/fract-olm.png" />
+  </a>
+
+  <a href="https://github.com/simo1616/minishell" title="Minishell">
+    <img alt="Minishell" height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/minishellm.png" />
+  </a>
+  <a href="https://github.com/simo1616/philosopher" title="Philosophers">
+    <img alt="Philosophers" height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/philosophersn.png" />
+  </a>
+
+  <a href="https://github.com/simo1616/CPP" title="CPP Modules">
+    <img alt="CPP Modules" height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/cppn.png" />
+  </a>
+  <a href="https://github.com/simo1616/Inception" title="Inception">
+    <img alt="Inception" height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/inceptionn.png" />
+  </a>
+
+</div>
+
+---
 ### 🛠 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -22,18 +77,3 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simo1616&layout=compact&theme=tokyonight" />
 </p>
-
-<!--
-**simo1616/simo1616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
