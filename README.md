@@ -9,7 +9,7 @@
 Motivated developer studying at **École 42 Genève**.  
 Strong focus on **C/C++**, systems programming and Linux, with experience in **Docker**, **TypeScript**, **React**, **NestJS** and full-stack teamwork.
 
-Looking for **junior developer**, **internship** or **IT support** roles.
+Looking for an **internship** in **data science**, **AI**, **automation** or **software development**.
 
 ---
 
@@ -121,7 +121,15 @@ Looking for **junior developer**, **internship** or **IT support** roles.
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simo1616&show_icons=true&theme=tokyonight&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simo1616&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simo1616&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=simo1616&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=simo1616&theme=tokyonight&utcOffset=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simo1616&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simo1616&theme=tokyonight" />
 </p>
